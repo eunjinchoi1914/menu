@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "점심메뉴판",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "돌림판",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "점심 메뉴 돌림 판 입니다"
+}
